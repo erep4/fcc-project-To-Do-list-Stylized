@@ -1,0 +1,34 @@
+body {
+    background-image: url(./pustaa-obycnaa-stranica-noutbuka-so-stacionarnymi.jpg);
+    background-size: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: red;
+}
+
+a:focus{
+  outline-style: solid red;
+}
+
+a:visited {
+  color: purple;
+}
+
+.todo-list {
+    margin-top: 15%;
+    margin-left:10%;
+}
+
+li {
+    font-size: large;
+}
+
